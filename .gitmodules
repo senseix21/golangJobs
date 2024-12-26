@@ -1,0 +1,6 @@
+[submodule "job-portal"]
+	path = job-portal
+	url = https://github.com/senseix21/job-portal.git
+[submodule "job-portal-frontend"]
+	path = job-portal-frontend
+	url = https://github.com/senseix21/job-portal-frontend.git
